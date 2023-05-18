@@ -1,0 +1,62 @@
+{
+  "hash": "7a8ac48e",
+  "browserHash": "d8dac9ed",
+  "optimized": {
+    "@element-plus/icons-vue": {
+      "src": "../../node_modules/@element-plus/icons-vue/dist/index.js",
+      "file": "@element-plus_icons-vue.js",
+      "fileHash": "887eebce",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "f900d04d",
+      "needsInterop": false
+    },
+    "dayjs/locale/zh-cn": {
+      "src": "../../node_modules/dayjs/locale/zh-cn.js",
+      "file": "dayjs_locale_zh-cn.js",
+      "fileHash": "9df65fa5",
+      "needsInterop": true
+    },
+    "element-plus": {
+      "src": "../../node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "478f8089",
+      "needsInterop": false
+    },
+    "element-plus/lib/locale/lang/zh-cn": {
+      "src": "../../node_modules/element-plus/lib/locale/lang/zh-cn.js",
+      "file": "element-plus_lib_locale_lang_zh-cn.js",
+      "fileHash": "2e75bf88",
+      "needsInterop": true
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "ee8ba6a8",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "bd659359",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-V3ATNKM3": {
+      "file": "chunk-V3ATNKM3.js"
+    },
+    "chunk-RMC6V2CB": {
+      "file": "chunk-RMC6V2CB.js"
+    },
+    "chunk-TLZATXV3": {
+      "file": "chunk-TLZATXV3.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
